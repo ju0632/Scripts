@@ -7,19 +7,6 @@
 + []()
 + []()
 + []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
 
 
 # JavaScript
@@ -28,7 +15,7 @@
 + [GideonSenku](https://github.com/GideonSenku/scripts)
 + [HopeTF](https://github.com/HopeTF/JavaScripts)
 + [ikanam](https://github.com/ikanam/Surge-Scripts)
-+ [Leped](https://github.com/Leped/Scripting
++ [Leped](https://github.com/Leped/Scripting)
 + [Alex0510](https://github.com/Alex0510/surge)
 + [Neurogram-R](https://github.com/Neurogram-R/Surge)
 + [KOP-XIAO](https://github.com/KOP-XIAO/QuantumultX)
