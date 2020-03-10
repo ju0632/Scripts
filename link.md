@@ -1,8 +1,8 @@
 # Profiles
 + [ConnersHua](https://github.com/ConnersHua/Profiles)
 + [alpha87](https://github.com/alpha87/Loon-Profiles)
-+ [zc-nju-med\/hellcell](https://github.com/zc-nju-med/hellcell)
-+ [Koolson\/Qure](https://github.com/Koolson/Qure)
++ [zc-nju-med/hellcell](https://github.com/zc-nju-med/hellcell)
++ [Koolson/Qure](https://github.com/Koolson/Qure)
 
 # JavaScript
 + [chavyleung](https://github.com/chavyleung/scripts) [QuanX GET cookie](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Local_Cookie.conf?raw=true) [Rewrite](https://github.com/chavyleung/scripts/raw/master/QuantumultX_Remote_Task.conf?raw=true)
