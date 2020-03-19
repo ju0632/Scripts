@@ -137,7 +137,7 @@ if (isSurge) {
     }
 }
 // #endregion
-const nCoVdata = encodeURI("https://lab.isaaclin.cn/nCoV/api/area?latest=1&province=湖北省")
+const nCoVdata = encodeURI("https://lab.isaaclin.cn/nCoV/api/area?latest=1&province=江苏省")
 $httpClient.get(nCoVdata, function(error, response, data){
     if (error){
         console.log(error);
