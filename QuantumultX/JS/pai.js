@@ -1,3 +1,5 @@
+// 圆周率运算以此检验设备运行速度
+
 var start = Date.now(); 
 
 var pai = 0, flag = false;
