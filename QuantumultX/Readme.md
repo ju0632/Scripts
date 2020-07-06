@@ -1,12 +1,12 @@
 # See You Later
 
-  ## Config  配置文件目录
+  + Config  配置文件目录
   
-  ## Js JavaScript 文件目录
+  + Js JavaScript 文件目录
   
-  ## Rewrite 文件目录
+  + Rewrite 文件目录
   
-  ## Task 文件目录
+  + Task 文件目录
   
   ***
   
