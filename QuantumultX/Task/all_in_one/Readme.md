@@ -1,7 +1,7 @@
 # See You Later
 
 ## 多合一签到脚本
-* [@sazs34 / TaskConfig](https://github.com/sazs34/TaskConfig/) * 
+*[@sazs34 / TaskConfig](https://github.com/sazs34/TaskConfig/)* 
 
 > + 百度贴吧
 > + 爱奇艺
