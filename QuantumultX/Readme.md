@@ -10,13 +10,13 @@
   
   ***
   
-  > + Task_GetCookie_CDN.conf
+  + Task_GetCookie_CDN.conf
       获取 Cookie 的远程订阅（使用jsDelivr加速）
-  > + Task_GetCookie_gh.conf
+  + Task_GetCookie_gh.conf
       获取 Cookie 的远程订阅（Github直连）
-  > + Task_Local.conf
+  + Task_Local.conf
       定时任务配置，本地（需确保本地文件路径），目前无法订阅，请手动根据个人需求复制内容及修改时间。
-  > + Task_Remote.conf
+  + Task_Remote.conf
       定时任务配置，远程,目前无法订阅，请手动根据个人需求复制内容及修改时间。
   
   
